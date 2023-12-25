@@ -1,0 +1,75 @@
+/* CSS Styles */
+body {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  width: 400px;
+  background: linear-gradient(to right, #ffd3b6, #dcb1a2); /* Light brown pastel gradient */
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  text-align: center;
+  animation: fadeIn 1s ease-in-out; /* Fade-in animation */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.container h2 {
+  margin-bottom: 30px;
+  color: #333; /* Dark text color */
+}
+
+.container form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.container form button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2196f3;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.container form button:hover {
+  background-color: #0d8bef;
+}
+
+.container .signup-link {
+  margin-top: 20px;
+}
+
+.container .signup-link a {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.container .signup-link a:hover {
+  text-decoration: underline;
+}
