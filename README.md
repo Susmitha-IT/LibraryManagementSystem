@@ -9,6 +9,7 @@ For an overview of the project, you can refer to the [project presentation](http
 ADMIN PANEL
 
 ● The admin panel empowers administrators with intuitive interfaces to approve, reject, orhandle pending user sign-ups.
+
 ● Administrators can efficiently manage book operations, including adding, editing, deleting, borrowing, returning, fines, and incorporating e-books. It facilitates organizing books into categories and implements data export mechanisms, and provides insightful dashboards for monitoring library statistics.
 
 ![image](https://github.com/Susmitha-IT/LibraryManagementSystem/assets/154817866/b416375b-05b8-410e-b139-7868f461b90b)
