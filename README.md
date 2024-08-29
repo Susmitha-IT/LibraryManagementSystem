@@ -13,10 +13,7 @@ Individually developed 20+ functionalities, seamlessly integrating real-world en
   
 For an overview of the project, you can refer to the [project presentation](https://drive.google.com/file/d/1QGtIdm0NrC-F_rwRoN8XWCYIJG__8H8x/view).
 
-## Access the hosted admin and user panels:
-
-- [Admin Panel](http://booklandialibrary.infinityfreeapp.com/LBMS_AdminPanel/) - Manage your project settings and data.
-- [User Panel](http://booklandialibrary.infinityfreeapp.com/LBMS_UserPanel/) - Interact with the project's features and functionalities. [Watch the User Panel Video](https://drive.google.com/file/d/1z63Bc7HP9A_RvXpMgkZwPtGniikiNNrq/view?usp=drive_link)
+[Watch the User Panel Video](https://drive.google.com/file/d/1z63Bc7HP9A_RvXpMgkZwPtGniikiNNrq/view?usp=drive_link)
 
 
 
